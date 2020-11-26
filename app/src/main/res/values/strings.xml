@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleDogApiApplication</string>
+    <string name="share">Share</string>
+    <string name="open_in_browser">Open In Browser</string>
+</resources>
